@@ -1,5 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
-logo: /assets/images/into-the-dark-forest-logo.png
+logo: "/assets/images/into-the-dark-forest-logo.png"
 author: 0xGray
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
